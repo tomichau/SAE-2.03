@@ -9,10 +9,10 @@
 4. faire le readme.md
 
 5. rendre l'archive en .zip/.tar.gz avec
-  * version pdf
-  * version html
-  * fichier sources pour la conversion
-  * readme.md
+   * version pdf
+   * version html
+   * fichier sources pour la conversion
+   * readme.md
 
 # links doc Markdoc
 * [tuto markdown](https://www.markdowntutorial.com/fr/lesson/7/)
