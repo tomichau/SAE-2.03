@@ -63,7 +63,7 @@ STIEVENARD Adam -- CHAUMETTE Thomas -- Leclercq Hugo
     '[Source : Techno-Science.net](https://www.techno-science.net/definition/3812.html)'
 
 ---
-**_p_artie Markdown_**
+**_partie Markdown_**
 
 ---
 **_partie git_**
