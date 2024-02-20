@@ -10,4 +10,9 @@
   * version pdf
   * version html
   * fichier sources pour la conversion
-  * readme.md 
+  * readme.md
+
+# links doc Markdoc
+* https://www.markdowntutorial.com/fr/lesson/7/       (tuto markdown)
+* https://commonmark.org/help/                        (doc markdown)
+* https://docs.framasoft.org/fr/grav/markdown.html    (full doc markdown)
