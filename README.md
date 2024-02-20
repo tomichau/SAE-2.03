@@ -1,1 +1,13 @@
 # SAE-2.03
+
+1. faire la partie VM
+2. faire la partie Markdown
+3. faire la partie git
+
+4. faire le readme.md
+
+5. rendre l'archive en .zip/.tar.gz avec
+  * version pdf
+  * version html
+  * fichier sources pour la conversion
+  * readme.md 
