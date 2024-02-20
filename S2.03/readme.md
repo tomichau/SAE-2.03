@@ -1,6 +1,6 @@
 #### SAE 2.03 : RAPPORT SEMAINE 08
 
-STIEVENARD Adam -- CHAUMETTE Thomas -- Leclercq Hugo/Moïse
+STIEVENARD Adam -- CHAUMETTE Thomas -- Leclercq Hugo
 
 ---
 **Partie VM**
