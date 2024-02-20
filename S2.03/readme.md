@@ -1,9 +1,9 @@
-#### SAE 2.03 : RAPPORT SEMAINE 08
+### SAE 2.03 : RAPPORT SEMAINE 08
 
 STIEVENARD Adam -- CHAUMETTE Thomas -- Leclercq Hugo
 
 ---
-**Partie VM**
+**_Partie VM_**
 
 ### Question(s) 1 : Configuration matérielle dans VirtualBox 
 * Que signifie “64-bit” dans “Debian 64-bit” ?
@@ -63,7 +63,7 @@ STIEVENARD Adam -- CHAUMETTE Thomas -- Leclercq Hugo
     '[Source : Techno-Science.net](https://www.techno-science.net/definition/3812.html)'
 
 ---
-**partie Markdown**
+**_p_artie Markdown_**
 
 ---
-**partie git**
+**_partie git_**
