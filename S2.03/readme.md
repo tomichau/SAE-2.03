@@ -2,8 +2,8 @@
 
 STIEVENARD Adam -- CHAUMETTE Thomas -- Leclercq Hugo/Moïse
 
---- **Partie VM** ---
-
+---
+**Partie VM**
 
 ### Question(s) 1 : Configuration matérielle dans VirtualBox 
 * Que signifie “64-bit” dans “Debian 64-bit” ?
