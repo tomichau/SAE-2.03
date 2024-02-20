@@ -13,6 +13,6 @@
   * readme.md
 
 # links doc Markdoc
-* https://www.markdowntutorial.com/fr/lesson/7/       (tuto markdown)
-* https://commonmark.org/help/                        (doc markdown)
-* https://docs.framasoft.org/fr/grav/markdown.html    (full doc markdown)
+* [tuto markdown](https://www.markdowntutorial.com/fr/lesson/7/)
+* [doc markdown](https://commonmark.org/help/)
+* [full doc markdown](https://docs.framasoft.org/fr/grav/markdown.html)
