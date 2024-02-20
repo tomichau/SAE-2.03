@@ -1,9 +1,6 @@
 # SAE-2.03
 
-##ET TOI SALE FRAUDE VIEN SUR DISCORD LA !!!
-  
-  
-
+##ET TOI SALE FRAUDE VIEN SUR DISCORD LA !!!  
 1. faire la partie VM
 2. faire la partie Markdown
 3. faire la partie git
