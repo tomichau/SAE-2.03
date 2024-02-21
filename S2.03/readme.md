@@ -63,8 +63,8 @@ STIEVENARD Adam -- CHAUMETTE Thomas -- Leclercq Hugo
     '[Source : Techno-Science.net](https://www.techno-science.net/definition/3812.html)'
 
 ---
-**_partie Markdown_**
-blabla en crabe 🦀🦀🦀
+**_partie Markdown_**. 
+blabla en crabe 🦀🦀🦀. 
 faite le tableau de marckdown en marckdown allez loulou tu peux le faire 
 
 ---
